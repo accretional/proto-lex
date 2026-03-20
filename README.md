@@ -1,5 +1,5 @@
 # proto-lex
-Lexing, Regular Expressions, EBNF (extended Backus-Naur form) and possibly other metasyntax
+Lexing, Regular Expressions, EBNF (extended Backus-Naur form, [ISO/IEC 149770](https://www.iso.org/standard/26153.html) but [people say not to use that](https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html)) and possibly other metasyntax
 
 Note: starting with [EBNF](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form) and applying it to [Protobuf itself](https://protobuf.dev/reference/protobuf/proto3-spec/) then to [Valkey's REdis Serialization Protocol, aka RESP](https://valkey.io/topics/protocol/)
 
